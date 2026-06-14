@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuando-nos-volvimos-extranos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cuando nos volvimos extraños](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-nos-volvimos-extranos/) |
+| **Get License** | [Music Rights & Licensing for Cuando nos volvimos extraños](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-nos-volvimos-extranos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 79a7fac87801f9546dad86108e0aaf3c195cf54d
+> Dime, mami, cuándo nos volvimos extraños
+> Si te conozco bien desde hace muchos años
+> Esa mirada tuya a mí me está llamando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
