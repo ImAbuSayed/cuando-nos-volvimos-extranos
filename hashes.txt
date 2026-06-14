@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuando nos volvimos extraños
+
+This log tracks the cryptographic history and versioning for the song **Cuando nos volvimos extraños** (cuando-nos-volvimos-extranos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:52:15.343226 | `v1` | `847df66088f41649e58fe89144a1ad63970588bf51c4f9be9aa77b8050fcb39a` | `f99277d5bfeafb739d000270890408a799fb39b540763b9bb8ddfd11043189a6` | `2026-06-14_cuando-nos-volvimos-extranos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
